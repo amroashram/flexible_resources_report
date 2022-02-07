@@ -1,4 +1,4 @@
-# flexiblesdk
+# flexible_resources_report
 Unofficial Python SDK for Orange Cloud (Flexible Engine)
 
 This libray intends to provide a Python SDK interface for the Flexible Engine cloud which currently more in support of Terraform .
